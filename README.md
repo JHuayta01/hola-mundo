@@ -1,4 +1,4 @@
-# hola-mundo
+# HOLA MUNDO
 Mi primer repositrio de prueba.
 
 Autor: Ricardo M
